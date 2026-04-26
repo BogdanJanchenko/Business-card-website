@@ -28,7 +28,7 @@ const Projects = () => {
     {
       id: 1,
       name: 'Business promotion',
-      photo: '/projects/business_promoution.PNG',
+      photo: '/projects/business_promoution.png',
       type: 'Individual project',
       site_link: `https://bogdanjanchenko.github.io/business_promotion/`,
       gitHub: `https://github.com/BogdanJanchenko/business_promotion`,
@@ -39,7 +39,7 @@ const Projects = () => {
     {
       id: 2,
       name: 'ArtUnity',
-      photo: '/projects/art_unity.PNG',
+      photo: '/projects/art_unity.png',
       type: 'Group project',
       site_link: `https://elliereznichenko.github.io/ArtUnity/`,
       gitHub: `https://github.com/EllieReznichenko/ArtUnity/issues?q=state%3Aclosed%20is%3Apr%20author%3ABogdanJanchenko`,
@@ -50,7 +50,7 @@ const Projects = () => {
     {
       id: 3,
       name: 'Crypto app',
-      photo: '/projects/crypto_app.PNG',
+      photo: '/projects/crypto_app.png',
       type: 'Individual project',
       site_link: `https://crypto-app-six-snowy.vercel.app/`,
       gitHub: `https://github.com/BogdanJanchenko/crypto_app`,
@@ -61,7 +61,7 @@ const Projects = () => {
     {
       id: 4,
       name: 'Currency coverter',
-      photo: '/projects/currency_converter.PNG',
+      photo: '/projects/currency_converter.png',
       type: 'Individual project',
       site_link: `https://currency-converter-gai5.vercel.app/`,
       gitHub: `https://github.com/BogdanJanchenko/currency_converter`,
